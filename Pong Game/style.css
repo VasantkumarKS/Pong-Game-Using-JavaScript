@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    /* padding-top: 80px; */
+}
+
+#board{
+    background-color: black;
+    align-items: center;
+    border-radius: 10px;
+    border-top: 5px solid skyblue;
+    border-bottom: 5px solid skyblue;
+}
+
+h1{
+    color: green;
+}
